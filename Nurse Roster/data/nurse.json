@@ -5,9 +5,14 @@
     "skills": ["ICU", "General"],
     "certifications": ["BLS", "ACLS"],
     "experience_years": 5,
-    "availability": ["Mon-Morning", "Tue-Evening", "Wed-Night", "Fri-Morning"],
+    "unavalability": ["Wed-Full-Morning"],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
-    "contracted_hours": 40,
+    "contracted_hours": 44,
     "seniority_level": "Senior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -17,9 +22,14 @@
     "skills": ["Pediatrics"],
     "certifications": ["BLS"],
     "experience_years": 2,
-    "availability": ["Mon-Evening", "Tue-Morning", "Thu-Night", "Sat-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Evening"],
-    "contracted_hours": 38,
+    "contracted_hours": 40,
     "seniority_level": "Junior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -29,9 +39,14 @@
     "skills": ["General", "Emergency"],
     "certifications": ["BLS", "ACLS"],
     "experience_years": 4,
-    "availability": ["Mon-Night", "Wed-Morning", "Fri-Evening", "Sun-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Night"],
-    "contracted_hours": 42,
+    "contracted_hours": 44,
     "seniority_level": "Mid",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -41,7 +56,12 @@
     "skills": ["Surgery", "ICU"],
     "certifications": ["BLS", "TraumaCare"],
     "experience_years": 6,
-    "availability": ["Tue-Morning", "Thu-Evening", "Fri-Night", "Sat-Night"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
     "contracted_hours": 44,
     "seniority_level": "Senior",
@@ -53,9 +73,14 @@
     "skills": ["Maternity"],
     "certifications": ["BLS", "Midwifery"],
     "experience_years": 3,
-    "availability": ["Mon-Morning", "Wed-Evening", "Thu-Morning", "Sun-Night"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
-    "contracted_hours": 36,
+    "contracted_hours": 40,
     "seniority_level": "Junior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   }, 
@@ -65,9 +90,14 @@
     "skills": ["Oncology", "General"],
     "certifications": ["BLS", "ChemoCert"],
     "experience_years": 7,
-    "availability": ["Tue-Evening", "Wed-Morning", "Sat-Evening", "Sun-Night"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Evening"],
-    "contracted_hours": 40,
+    "contracted_hours": 44,
     "seniority_level": "Senior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -77,9 +107,14 @@
     "skills": ["Cardiology", "ICU"],
     "certifications": ["BLS", "ACLS", "CardiacCare"],
     "experience_years": 8,
-    "availability": ["Mon-Evening", "Wed-Night", "Thu-Evening", "Fri-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Night"],
-    "contracted_hours": 42,
+    "contracted_hours": 44,
     "seniority_level": "Senior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -89,7 +124,12 @@
     "skills": ["Emergency", "Trauma"],
     "certifications": ["BLS", "ACLS", "TraumaCare"],
     "experience_years": 5,
-    "availability": ["Mon-Night", "Tue-Morning", "Fri-Evening", "Sat-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
     "contracted_hours": 44,
     "seniority_level": "Mid",
@@ -101,9 +141,14 @@
     "skills": ["Neurology", "General"],
     "certifications": ["BLS", "NeuroCert"],
     "experience_years": 6,
-    "availability": ["Wed-Evening", "Thu-Morning", "Sat-Night", "Sun-Evening"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Evening"],
-    "contracted_hours": 40,
+    "contracted_hours": 44,
     "seniority_level": "Mid",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -113,9 +158,14 @@
     "skills": ["Pediatrics", "NICU"],
     "certifications": ["BLS", "NRP"],
     "experience_years": 4,
-    "availability": ["Tue-Night", "Thu-Morning", "Fri-Morning", "Sun-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
-    "contracted_hours": 38,
+    "contracted_hours": 44,
     "seniority_level": "Mid",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -125,9 +175,14 @@
     "skills": ["Orthopedics", "Surgery"],
     "certifications": ["BLS", "OrthoCert"],
     "experience_years": 3,
-    "availability": ["Mon-Morning", "Thu-Night", "Fri-Evening", "Sat-Evening"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Night"],
-    "contracted_hours": 36,
+    "contracted_hours": 40,
     "seniority_level": "Junior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -137,9 +192,14 @@
     "skills": ["General", "Geriatrics"],
     "certifications": ["BLS", "GeriCert"],
     "experience_years": 9,
-    "availability": ["Tue-Evening", "Wed-Morning", "Fri-Night", "Sun-Evening"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Evening"],
-    "contracted_hours": 42,
+    "contracted_hours": 44,
     "seniority_level": "Senior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -149,9 +209,14 @@
     "skills": ["Psychiatry", "Mental Health"],
     "certifications": ["BLS", "MentalHealthCert"],
     "experience_years": 4,
-    "availability": ["Mon-Evening", "Wed-Night", "Sat-Morning", "Sun-Night"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Night"],
-    "contracted_hours": 40,
+    "contracted_hours": 44,
     "seniority_level": "Mid",
     "union_terms": ["max_45h_week", "1_rest_day"]
   },
@@ -161,9 +226,14 @@
     "skills": ["Dermatology", "General"],
     "certifications": ["BLS", "WoundCare"],
     "experience_years": 2,
-    "availability": ["Thu-Evening", "Fri-Morning", "Sat-Evening", "Sun-Morning"],
+    "unavalability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
     "preferences": ["Morning"],
-    "contracted_hours": 38,
+    "contracted_hours": 40,
     "seniority_level": "Junior",
     "union_terms": ["max_45h_week", "1_rest_day"]
   }
