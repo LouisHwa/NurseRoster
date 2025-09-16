@@ -1,0 +1,26 @@
+[
+  {
+    "constraint_id": "C001",
+    "type": "labour_law",
+    "description": "Max 45 working hours per week",
+    "rule": { "max_hours_per_week": 45 }
+  },
+  {
+    "constraint_id": "C002",
+    "type": "labour_law",
+    "description": "At least 1 rest day per week",
+    "rule": { "min_rest_days": 1 }
+  },
+  {
+    "constraint_id": "C003",
+    "type": "fairness",
+    "description": "Ensure fair distribution of night shifts",
+    "rule": { "max_night_shifts_per_week": 3 }
+  },
+  {
+    "constraint_id": "C004",
+    "type": "hospital_policy",
+    "description": "ICU shift must have at least one ICU-trained nurse",
+    "rule": { "required_skill": "ICU" }
+  }
+]

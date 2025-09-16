@@ -1,0 +1,5 @@
+[
+  { "assignment_id": "A001", "roster_id": "R001", "nurse_id": "N001", "shift_id": "S001" },
+  { "assignment_id": "A002", "roster_id": "R001", "nurse_id": "N003", "shift_id": "S002" },
+  { "assignment_id": "A003", "roster_id": "R001", "nurse_id": "N002", "shift_id": "S004" }
+]
