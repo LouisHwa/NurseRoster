@@ -8,6 +8,9 @@ with open("Nurse Roster/data/nurse.json", "r") as f:
 days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 time_slots = ["Morning", "Evening", "Night"]
 
+# Build all possible day-slot combinations
+all_shifts = [f"{d}-{t}" for d in days for t in time_slots]
+
 model = cp_model.CpModel()
 assignment = {}
 
@@ -36,6 +39,7 @@ for nurse in nurses:
             for slot in time_slots) <= 2
     )
 
+# Constraint 4: Fair distribution of workload across nurses (balanced scheduling)
 total_shifts = len(days) * len(time_slots)
 min_shifts = total_shifts // len(nurses)      # floor
 max_shifts = -(-total_shifts // len(nurses))  # ceil
@@ -48,6 +52,14 @@ for nurse in nurses:
     model.Add(total_nurse_shifts >= min_shifts)
     model.Add(total_nurse_shifts <= max_shifts)
 
+# Constraint 5: Respect nurse availability
+for nurse in nurses:
+    nurse_id = nurse["nurse_id"]
+    for day in days:
+        for slot in time_slots:
+            shift = f"{day}-{slot}"
+            if shift not in nurse["availability"]:
+                model.Add(assignment[(nurse_id, day, slot)] == 0)
 
 avg = total_shifts / len(nurses)
 fairness_terms = []
@@ -73,6 +85,11 @@ for nurse in nurses:
 
 
 model.Maximize(sum(preference_terms))
+
+
+for n in nurses:
+    print(f"{n['name']}: {n['preferences']}: {n['availability']}")
+
 
 # Solve
 solver = cp_model.CpSolver()
