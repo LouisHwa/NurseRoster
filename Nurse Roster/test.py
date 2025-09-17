@@ -42,7 +42,7 @@ TIME_SLOTS = list(SHIFT_HOURS.keys())
 # Coverage
 DEMAND_PER_FULL_SHIFT = 2
 DEMAND_PER_HALF_SHIFT = 1
-MAX_DEMAND_PER_FULL_SHIFT = 3
+MAX_DEMAND_PER_FULL_SHIFT = 4
 MAX_DEMAND_PER_HALF_SHIFT = 2
 
 FAIRNESS_MAX_UNIT_DIFF = 3  # corresponds to <=1 in original units (1 == 8h diff = 1 unit -> *2 => 2)
@@ -217,8 +217,16 @@ def build_and_solve(nurses):
                             + sum(assignment[(nid, dept, next_day, s2)] for dept in DEPARTMENTS)
                             <= 1
                         )
-        
+    # Constraint 11: Shift in all departments cannot have a difference of more than 1
+    for d in DAYS:
+        for s in TIME_SLOTS:
+            dept_counts = [sum(assignment[(n["nurse_id"], dept, d, s)] for n in nurses) for dept in DEPARTMENTS]
 
+            for i in range(len(DEPARTMENTS)):
+                for j in range(i+1, len(DEPARTMENTS)):
+                    # Difference between dept i and j must be ≤ 1
+                    model.Add(dept_counts[i] - dept_counts[j] <= 1)
+                    model.Add(dept_counts[j] - dept_counts[i] <= 1)
 
 
     # Constraints 5: 
@@ -252,60 +260,37 @@ def build_and_solve(nurses):
         print("No solution found (infeasible).")
         return None
 
-    # Extract schedule per department/day/slot, and nurse hours/units
-    schedule = {dept: {d: {s: [] for s in TIME_SLOTS} for d in DAYS} for dept in DEPARTMENTS}
-    nurse_hours = {}
-    nurse_units = {}
-    for n in nurses:
-        nid = n["nurse_id"]
-        total_h = 0
-        total_u = 0
-        for d in DAYS:
-            for s in TIME_SLOTS:
-                for dept in DEPARTMENTS:
+    roster = {"departments": []}
+
+    for dept in DEPARTMENTS:
+        dept_entry = {"name": dept, "nurses": []}
+
+        for nurse in nurses:
+            nid = nurse["nurse_id"]
+            nurse_entry = {"id": nid, "shifts": []}
+
+            for d in DAYS:
+                for s in TIME_SLOTS:
                     if solver.Value(assignment[(nid, dept, d, s)]) == 1:
-                        schedule[dept][d][s].append((nid, "full" if SHIFT_HOURS[s] == 8 else "half"))
-                        total_h += SHIFT_HOURS[s]
-                        total_u += UNIT_PER_SHIFT[s]
-        nurse_hours[nid] = total_h
-        nurse_units[nid] = total_u
+                        nurse_entry["shifts"].append({
+                            "day": d,
+                            "shift": s
+                        })
 
-    return {"schedule": schedule, "nurse_hours": nurse_hours, "nurse_units": nurse_units, "status": status}
+            if nurse_entry["shifts"]:  # only include nurses who actually work
+                dept_entry["nurses"].append(nurse_entry)
 
-# ---------------------------
-# Pretty print in requested format:
-# Department X: Monday: N001(full), N002(half), Tues: ...
-# ---------------------------
-def print_by_department(res):
-    if not res:
-        print("No schedule to print.")
-        return
-    sched = res["schedule"]
-    for dept in sched:
-        print(f"\nDepartment {dept}:")
-        for d in DAYS:
-            line = []
-            for s in TIME_SLOTS:
-                entries = sched[dept][d][s]
-                if entries:
-                    # Represent each assigned nurse with (full)/(half)
-                    items = [f"{nid}({typ})" for (nid, typ) in entries]
-                    line.append(f"{s}: {', '.join(items)}")
-            if line:
-                print(f"  {d}: " + " | ".join(line))
-            else:
-                print(f"  {d}: -")
+        roster["departments"].append(dept_entry)
+
+    with open("output.json", "w") as f:
+        json.dump(roster, f, indent=2)
+
+    print("✅ Roster saved to output.json")
+
+    return roster
 
 if __name__ == "__main__":
     nurses = load_nurses("Nurse Roster/data/nurse.json")
     res = build_and_solve(nurses)
     if not res:
         exit(1)
-    print_by_department(res)
-
-    print("\nTotal hours per nurse (weekly):")
-    for nid, hrs in res["nurse_hours"].items():
-        print(f"  {nid}: {hrs}h")
-    print("\nTotal units per nurse (Full=2, Half=1):")
-    for nid, u in res["nurse_units"].items():
-        print(f"  {nid}: {u} units")
