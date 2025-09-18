@@ -1,30 +1,20 @@
-[
+{
+  "SHIFT_TIMES": {
+    "Full-Morning": ["08:00", "16:00"],
+    "Full-Evening": ["16:00", "00:00"],
+    "Full-Night": ["00:00", "08:00"],
+    "Half-Morning": ["08:00", "12:00"],
+    "Half-Evening": ["16:00", "20:00"],
+    "Half-Night": ["00:00", "04:00"]
+  },
+  "SHIFT_HOURS": {
+    "Full-Morning": 8,
+    "Full-Evening": 8,
+    "Full-Night": 8,
+    "Half-Morning": 4,
+    "Half-Evening": 4,
+    "Half-Night": 4
+  }
+}
   
-  { "shift_id": "S004", "date": "2025-09-15", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-15", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-15", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S001", "date": "2025-09-16", "time_slot": "Morning", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S002", "date": "2025-09-16", "time_slot": "Evening", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S003", "date": "2025-09-16", "time_slot": "Night", "required_skill_mix": ["Emergency"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S004", "date": "2025-09-17", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-17", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-17", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S004", "date": "2025-09-18", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-18", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-18", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S004", "date": "2025-09-19", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-19", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-19", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S004", "date": "2025-09-20", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-20", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-20", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 },
-
-  { "shift_id": "S004", "date": "2025-09-21", "time_slot": "Morning", "required_skill_mix": ["Pediatrics"], "min_staff": 1, "max_staff": 2 },
-  { "shift_id": "S005", "date": "2025-09-21", "time_slot": "Evening", "required_skill_mix": ["General"], "min_staff": 2, "max_staff": 3 },
-  { "shift_id": "S006", "date": "2025-09-21", "time_slot": "Night", "required_skill_mix": ["ICU"], "min_staff": 1, "max_staff": 2 }
-]
+  
