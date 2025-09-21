@@ -1,0 +1,6 @@
+boto3>=1.26.0
+pandas>=1.5.0
+xgboost>=1.6.0
+numpy>=1.21.0
+ortools>=9.4.0
+pyarrow>=10.0.0

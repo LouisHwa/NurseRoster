@@ -1,0 +1,48 @@
+{
+  "general": {
+    "timezone": "Asia/Kuala_Lumpur",
+    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "departments": ["General", "ICU", "ER"],
+    "skills": ["General", "ICU", "ER", "OT", "Pediatrics"],
+    "core_skill": {
+      "General": "General",
+      "ICU": "ICU",
+      "ER": "ER"
+    }
+  },
+  "constraints": {
+    "daily_hours_cap": 8,
+    "weekly_hours_cap": 45,
+    "contracted_hours": {
+      "enabled": true,
+      "description":"Must equal nurse.contracted_hours if > 0"
+    },
+    "max_assignments_per_slot": {
+      "enabled": true,
+      "description":"1 department per nurse per day-slot"
+    },
+    "rest_time_hours": 12,
+    "weekly_rest_days": 1,
+    "fairness_hours_diff": 8,
+    "department_balance": {
+      "enabled":true,
+      "description":"Shift counts across departments cannot differ by more than 1"
+    },
+    "core_skill_requirement": {
+      "enabled":true,
+      "description":"Each department shift must include at least 1 nurse with the department's core skill"
+    },
+    "skill_mix_requirement": {
+      "enabled":true,
+      "description":"Each department shift must include nurses with at least 3 different skills"
+    }
+  },
+  "preferences": {
+    "type": "soft",
+    "objective": "maximize assignments that match nurse preferences (Morning/Evening/Night)"
+  },
+  "unavailability": {
+    "type": "hard",
+    "rule": "Nurses cannot be assigned to shifts listed in their unavailability"
+  }
+}

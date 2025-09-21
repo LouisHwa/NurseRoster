@@ -1,0 +1,20 @@
+{
+  "SHIFT_TIMES": {
+    "Full-Morning": ["08:00", "16:00"],
+    "Full-Evening": ["16:00", "00:00"],
+    "Full-Night": ["00:00", "08:00"],
+    "Half-Morning": ["08:00", "12:00"],
+    "Half-Evening": ["16:00", "20:00"],
+    "Half-Night": ["00:00", "04:00"]
+  },
+  "SHIFT_HOURS": {
+    "Full-Morning": 8,
+    "Full-Evening": 8,
+    "Full-Night": 8,
+    "Half-Morning": 4,
+    "Half-Evening": 4,
+    "Half-Night": 4
+  }
+}
+  
+  

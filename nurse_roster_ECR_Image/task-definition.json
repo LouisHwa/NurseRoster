@@ -1,0 +1,62 @@
+{
+    "family": "nurse-roster-task",
+    "networkMode": "awsvpc",
+    "requiresCompatibilities": ["FARGATE"],
+    "cpu": "2048",
+    "memory": "4096",
+    "executionRoleArn": "arn:aws:iam::926303510788:role/ecsTaskExecutionRole",
+    "taskRoleArn": "arn:aws:iam::926303510788:role/nurseRosterTaskRole",
+    "containerDefinitions": [
+        {
+            "name": "roster-generator",
+            "image": "926303510788.dkr.ecr.us-east-1.amazonaws.com/nurse-roster-generator:latest",
+            "essential": true,
+            "logConfiguration": {
+                "logDriver": "awslogs",
+                "options": {
+                    "awslogs-group": "/ecs/nurse-roster",
+                    "awslogs-region": "us-east-1",
+                    "awslogs-stream-prefix": "ecs"
+                }
+            },
+            "environment": [
+                {
+                    "name": "INPUT_S3_BUCKET",
+                    "value": "hospital-roster-data"
+                },
+                {
+                    "name": "OUTPUT_S3_BUCKET",
+                    "value": "hospital-roster-data"
+                },
+                {
+                    "name": "OUTPUT_PREFIX",
+                    "value": "roster_history/"
+                },
+                {
+                    "name": "NURSE_PATH",
+                    "value": "raw_data/nurse_data/nurse.json"
+                },
+                {
+                    "name": "RULES_PATH",
+                    "value": "raw_data/rules.json"
+                },
+                {
+                    "name": "DEMAND_PATH",
+                    "value": "raw_data/demand_data/demand.json"
+                },
+                {
+                    "name": "SHIFT_PATH",
+                    "value": "raw_data/shift.json"
+                },
+                {
+                    "name": "PAIRWISE_PATH",
+                    "value": "training/pairwise_weekly_compliance.parquet"
+                },
+                {
+                    "name": "MODEL_PATH",
+                    "value": "training/xgboost/output/sagemaker-xgboost-2025-09-20-01-07-22-211/output/model.tar.gz"
+                }
+            ]
+        }
+    ]
+}
