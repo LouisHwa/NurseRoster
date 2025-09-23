@@ -1,0 +1,5 @@
+{
+  "target_file": "nurse",
+  "nurse_id": "N002",
+  "instruction": "add sick leave for nurse N002 from Mon-Morning, Mon-Evening, Mon-Night, Tue-Morning, Tue-Evening, Tue-Night, Wed-Morning, Wed-Evening, Wed-Night:2025-09-23 to 2025-09-25"
+}

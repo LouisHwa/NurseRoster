@@ -1,0 +1,1513 @@
+[
+  {
+    "nurse_id": "N001",
+    "name": "Carlos Patel",
+    "skills": [
+      "General",
+      "OT",
+      "ICU",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN"
+    ],
+    "experience_years": 15,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N002",
+    "name": "Sophia Ahmed",
+    "skills": [
+      "General",
+      "ER",
+      "OT",
+      "ICU",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N003",
+    "name": "Jennifer Williams",
+    "skills": [
+      "General",
+      "Pediatrics",
+      "OT",
+      "ICU",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "ACLS",
+      "CEN"
+    ],
+    "experience_years": 10,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N004",
+    "name": "Zara Santos",
+    "skills": [
+      "General",
+      "Pediatrics",
+      "ICU",
+      "OT",
+      "ER"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 9,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N005",
+    "name": "Emma Patel",
+    "skills": [
+      "General",
+      "ICU",
+      "OT",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 11,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N006",
+    "name": "Samuel Cooper",
+    "skills": [
+      "General",
+      "OT",
+      "ICU",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "NRP"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N007",
+    "name": "Isabella Green",
+    "skills": [
+      "General",
+      "ICU",
+      "OT",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS"
+    ],
+    "experience_years": 15,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N008",
+    "name": "Samuel Hassan",
+    "skills": [
+      "General",
+      "Pediatrics",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "ENPC"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N009",
+    "name": "Zara Thompson",
+    "skills": [
+      "General",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "NRP"
+    ],
+    "experience_years": 10,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N010",
+    "name": "Robert Martinez",
+    "skills": [
+      "General",
+      "ER",
+      "OT",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 15,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N011",
+    "name": "Marcus Jackson",
+    "skills": [
+      "General",
+      "ICU",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "NRP"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N012",
+    "name": "Ethan Raj",
+    "skills": [
+      "General",
+      "OT",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN"
+    ],
+    "experience_years": 1,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N013",
+    "name": "Mohammed Miller",
+    "skills": [
+      "General",
+      "OT",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC"
+    ],
+    "experience_years": 5,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N014",
+    "name": "Ethan Johnson",
+    "skills": [
+      "General",
+      "Pediatrics",
+      "OT",
+      "ICU",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN",
+      "PALS"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N015",
+    "name": "Michael Miller",
+    "skills": [
+      "General",
+      "OT",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "ACLS"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N016",
+    "name": "Priya Cooper",
+    "skills": [
+      "ICU",
+      "ER",
+      "OT",
+      "General",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN",
+      "NRP"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N017",
+    "name": "James Kim",
+    "skills": [
+      "ICU",
+      "General",
+      "ER",
+      "Pediatrics",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "NRP"
+    ],
+    "experience_years": 2,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N018",
+    "name": "Kevin Rodriguez",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "OT",
+      "General",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "NRP"
+    ],
+    "experience_years": 15,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N019",
+    "name": "Marcus Raj",
+    "skills": [
+      "ICU",
+      "General",
+      "ER"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS"
+    ],
+    "experience_years": 10,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N020",
+    "name": "Hassan Liu",
+    "skills": [
+      "ICU",
+      "General",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC"
+    ],
+    "experience_years": 2,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N021",
+    "name": "Alexander Ali",
+    "skills": [
+      "ICU",
+      "OT",
+      "ER",
+      "Pediatrics",
+      "General"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 11,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N022",
+    "name": "Jacob Raj",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "General",
+      "ER",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "ACLS"
+    ],
+    "experience_years": 12,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N023",
+    "name": "Lisa Jackson",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "ER",
+      "General",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN"
+    ],
+    "experience_years": 5,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N024",
+    "name": "Jennifer O'Connor",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "General",
+      "ER",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC"
+    ],
+    "experience_years": 5,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N025",
+    "name": "Maya Brown",
+    "skills": [
+      "ICU",
+      "ER",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "ACLS",
+      "NRP"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N026",
+    "name": "Sophia Garcia",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "ER",
+      "OT",
+      "General"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS"
+    ],
+    "experience_years": 14,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N027",
+    "name": "David Zhang",
+    "skills": [
+      "ICU",
+      "Pediatrics",
+      "General",
+      "ER",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "NRP"
+    ],
+    "experience_years": 1,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N028",
+    "name": "Emily Wang",
+    "skills": [
+      "ICU",
+      "OT",
+      "ER",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC",
+      "CEN"
+    ],
+    "experience_years": 5,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N029",
+    "name": "Alexander Singh",
+    "skills": [
+      "ICU",
+      "OT",
+      "ER",
+      "General",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "NRP"
+    ],
+    "experience_years": 15,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N030",
+    "name": "Ryan Osman",
+    "skills": [
+      "ICU",
+      "General",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "NRP"
+    ],
+    "experience_years": 13,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N031",
+    "name": "Isabella Anderson",
+    "skills": [
+      "ER",
+      "OT",
+      "Pediatrics",
+      "General"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "ENPC"
+    ],
+    "experience_years": 14,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N032",
+    "name": "Emma O'Connor",
+    "skills": [
+      "ER",
+      "General",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N033",
+    "name": "Maya Anderson",
+    "skills": [
+      "ER",
+      "ICU",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC",
+      "CEN"
+    ],
+    "experience_years": 1,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N034",
+    "name": "Sophia Wilson",
+    "skills": [
+      "ER",
+      "General",
+      "OT"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC",
+      "ACLS"
+    ],
+    "experience_years": 4,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N035",
+    "name": "Lily Brown",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "OT"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 2,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N036",
+    "name": "Amelia Martinez",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "ICU",
+      "OT",
+      "General"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS"
+    ],
+    "experience_years": 7,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N037",
+    "name": "Maria Anderson",
+    "skills": [
+      "ER",
+      "OT",
+      "Pediatrics",
+      "ICU",
+      "General"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 12,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N038",
+    "name": "Maria Al-Zahra",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "OT",
+      "ICU",
+      "General"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 9,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N039",
+    "name": "Thomas Turner",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "ICU",
+      "OT",
+      "General"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 2,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N040",
+    "name": "Fatou Mahmood",
+    "skills": [
+      "ER",
+      "General",
+      "OT",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ENPC",
+      "CEN"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N041",
+    "name": "Sophie Miller",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "General",
+      "ICU"
+    ],
+    "certifications": [
+      "BLS",
+      "NRP",
+      "CEN"
+    ],
+    "experience_years": 12,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Morning"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N042",
+    "name": "Jennifer Green",
+    "skills": [
+      "ER",
+      "Pediatrics",
+      "General",
+      "ICU"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN",
+      "NRP"
+    ],
+    "experience_years": 6,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N043",
+    "name": "Robert Rodriguez",
+    "skills": [
+      "ER",
+      "ICU",
+      "General"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 10,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N044",
+    "name": "Emily Kim",
+    "skills": [
+      "ER",
+      "General",
+      "OT",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "CEN",
+      "NRP"
+    ],
+    "experience_years": 14,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N045",
+    "name": "Nathan Wang",
+    "skills": [
+      "ER",
+      "General",
+      "ICU",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 0,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Night"
+    ],
+    "contracted_hours": 36,
+    "seniority_level": "Junior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N046",
+    "name": "Michael Santos",
+    "skills": [
+      "General",
+      "ICU",
+      "OT",
+      "ER"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 2,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N047",
+    "name": "Samuel Wilson",
+    "skills": [
+      "ER",
+      "ICU",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS",
+      "ACLS",
+      "NRP"
+    ],
+    "experience_years": 9,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N048",
+    "name": "Emma Clark",
+    "skills": [
+      "General",
+      "Pediatrics",
+      "ICU"
+    ],
+    "certifications": [
+      "BLS",
+      "PALS",
+      "NRP"
+    ],
+    "experience_years": 9,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N049",
+    "name": "Samuel Rodriguez",
+    "skills": [
+      "ER",
+      "General",
+      "ICU",
+      "Pediatrics"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 3,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 40,
+    "seniority_level": "Mid",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  },
+  {
+    "nurse_id": "N050",
+    "name": "James Jackson",
+    "skills": [
+      "ER",
+      "General",
+      "ICU"
+    ],
+    "certifications": [
+      "BLS"
+    ],
+    "experience_years": 8,
+    "unavailability": [],
+    "leave": {
+      "annual": [],
+      "sick": [],
+      "maternity": []
+    },
+    "preferences": [
+      "Evening"
+    ],
+    "contracted_hours": 44,
+    "seniority_level": "Senior",
+    "union_terms": [
+      "max_45h_week",
+      "1_rest_day"
+    ]
+  }
+]

@@ -1,0 +1,1993 @@
+{
+  "departments": [
+    {
+      "name": "General",
+      "nurses": [
+        {
+          "id": "N001",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N002",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N003",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N004",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N005",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N006",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N007",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N008",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N009",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N010",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N011",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N012",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N013",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N014",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N015",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N016",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N017",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N018",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N019",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N020",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N021",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N022",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N023",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N024",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N025",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N026",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N027",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N028",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N029",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N030",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N031",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N032",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N033",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N034",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N035",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N036",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N037",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N038",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N039",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N040",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N041",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N042",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N043",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N044",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N045",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N046",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N048",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N049",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N050",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ICU",
+      "nurses": [
+        {
+          "id": "N001",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N002",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N003",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N004",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N005",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N006",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N007",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N008",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Tue",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N009",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N010",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N011",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N012",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N013",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N014",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N015",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N016",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N017",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N019",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N020",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N021",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N022",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N023",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N024",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N025",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N026",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N027",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N028",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N029",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N030",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N031",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N032",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N034",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N035",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N036",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N037",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N038",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N039",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N040",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N041",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N043",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N044",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N045",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N047",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N048",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N049",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N050",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Morning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ER",
+      "nurses": [
+        {
+          "id": "N001",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N002",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N003",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N004",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N005",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N006",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N007",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N008",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N009",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N010",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N011",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N013",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N014",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N015",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N016",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N018",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N019",
+          "shifts": [
+            {
+              "day": "Fri",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N020",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N021",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N022",
+          "shifts": [
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N023",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N024",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N025",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N026",
+          "shifts": [
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N027",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N028",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N029",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N030",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N031",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N032",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Wed",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N033",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Half-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N035",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Fri",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N036",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N037",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N038",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sat",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N039",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N040",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N041",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N042",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Sat",
+              "shift": "Half-Night"
+            }
+          ]
+        },
+        {
+          "id": "N043",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Fri",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Night"
+            }
+          ]
+        },
+        {
+          "id": "N044",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N045",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Tue",
+              "shift": "Half-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N046",
+          "shifts": [
+            {
+              "day": "Mon",
+              "shift": "Full-Night"
+            },
+            {
+              "day": "Tue",
+              "shift": "Half-Morning"
+            },
+            {
+              "day": "Wed",
+              "shift": "Full-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N047",
+          "shifts": [
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N048",
+          "shifts": [
+            {
+              "day": "Tue",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Morning"
+            }
+          ]
+        },
+        {
+          "id": "N049",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Half-Evening"
+            },
+            {
+              "day": "Thu",
+              "shift": "Full-Evening"
+            }
+          ]
+        },
+        {
+          "id": "N050",
+          "shifts": [
+            {
+              "day": "Wed",
+              "shift": "Full-Morning"
+            },
+            {
+              "day": "Sun",
+              "shift": "Full-Morning"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "generated_at": "2025-09-18T10:08:58.605174",
+  "total_scenarios": 5,
+  "successful": 4,
+  "failed": 1,
+  "scenarios": [
+    {
+      "name": "baseline",
+      "description": "Standard staffing requirements",
+      "status": "success",
+      "solver_stats": {
+        "status": "OPTIMAL",
+        "objective_value": 298.0,
+        "wall_time": 61.38702828,
+        "num_conflicts": 175,
+        "num_branches": 20705
+      }
+    },
+    {
+      "name": "high_demand",
+      "description": "20% increased minimum staffing requirements",
+      "status": "success",
+      "solver_stats": {
+        "status": "OPTIMAL",
+        "objective_value": 298.0,
+        "wall_time": 59.60627023200001,
+        "num_conflicts": 160,
+        "num_branches": 20240
+      }
+    },
+    {
+      "name": "flexible_hours",
+      "description": "Increased weekly hours cap to 48",
+      "status": "success",
+      "solver_stats": {
+        "status": "OPTIMAL",
+        "objective_value": 298.0,
+        "wall_time": 56.808840362000005,
+        "num_conflicts": 101,
+        "num_branches": 20875
+      }
+    },
+    {
+      "name": "emergency_staffing",
+      "description": "Minimum viable staffing (max = min)",
+      "status": "failed",
+      "reason": "No feasible solution"
+    },
+    {
+      "name": "reduced_availability",
+      "description": "20% of nurses have one additional unavailability",
+      "status": "success",
+      "solver_stats": {
+        "status": "OPTIMAL",
+        "objective_value": 298.0,
+        "wall_time": 64.065396713,
+        "num_conflicts": 175,
+        "num_branches": 20841
+      }
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "generation_summary": {
+    "total_scenarios": 100,
+    "successful": 46,
+    "failed": 54,
+    "success_rate": 46.0,
+    "total_time_seconds": 1248.393355846405,
+    "average_time_per_scenario": 12.48393355846405,
+    "generated_at": "2025-09-18T22:54:26.729248",
+    "output_directory": "C:\\Users\\waiyi\\OneDrive\\Documents\\GitHub\\NurseRoster\\Nurse Roster\\output\\100_scenarios"
+  },
+  "successful_scenarios": [
+    "scenario_003",
+    "scenario_004",
+    "scenario_005",
+    "scenario_007",
+    "scenario_009",
+    "scenario_013",
+    "scenario_014",
+    "scenario_017",
+    "scenario_019",
+    "scenario_020",
+    "scenario_021",
+    "scenario_023",
+    "scenario_024",
+    "scenario_027",
+    "scenario_029",
+    "scenario_031",
+    "scenario_033",
+    "scenario_034",
+    "scenario_035",
+    "scenario_039",
+    "scenario_040",
+    "scenario_043",
+    "scenario_044",
+    "scenario_045",
+    "scenario_049",
+    "scenario_053",
+    "scenario_054",
+    "scenario_059",
+    "scenario_060",
+    "scenario_061",
+    "scenario_063",
+    "scenario_064",
+    "scenario_065",
+    "scenario_069",
+    "scenario_073",
+    "scenario_074",
+    "scenario_079",
+    "scenario_083",
+    "scenario_084",
+    "scenario_089",
+    "scenario_091",
+    "scenario_093",
+    "scenario_094",
+    "scenario_097",
+    "scenario_099",
+    "scenario_100"
+  ],
+  "scenario_stats": {
+    "scenario_003": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.10703350000001,
+      "total_time": 63.43303561210632,
+      "num_conflicts": 515,
+      "num_branches": 778917
+    },
+    "scenario_004": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0767797,
+      "total_time": 63.32436394691467,
+      "num_conflicts": 631,
+      "num_branches": 779470
+    },
+    "scenario_005": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.1005461,
+      "total_time": 62.40970706939697,
+      "num_conflicts": 486,
+      "num_branches": 778180
+    },
+    "scenario_007": {
+      "status": "FEASIBLE",
+      "objective_value": 277.0,
+      "wall_time": 60.044811700000004,
+      "total_time": 62.571280002593994,
+      "num_conflicts": 635,
+      "num_branches": 694298
+    },
+    "scenario_009": {
+      "status": "FEASIBLE",
+      "objective_value": 292.0,
+      "wall_time": 60.025852300000004,
+      "total_time": 65.56686806678772,
+      "num_conflicts": 350,
+      "num_branches": 685324
+    },
+    "scenario_013": {
+      "status": "FEASIBLE",
+      "objective_value": 282.0,
+      "wall_time": 60.0265665,
+      "total_time": 63.221599102020264,
+      "num_conflicts": 546,
+      "num_branches": 779077
+    },
+    "scenario_014": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.042371100000004,
+      "total_time": 64.65880560874939,
+      "num_conflicts": 486,
+      "num_branches": 777608
+    },
+    "scenario_017": {
+      "status": "FEASIBLE",
+      "objective_value": 283.0,
+      "wall_time": 60.02544700000001,
+      "total_time": 62.85541009902954,
+      "num_conflicts": 641,
+      "num_branches": 694462
+    },
+    "scenario_019": {
+      "status": "FEASIBLE",
+      "objective_value": 284.0,
+      "wall_time": 60.044275500000005,
+      "total_time": 64.09319519996643,
+      "num_conflicts": 895,
+      "num_branches": 780072
+    },
+    "scenario_020": {
+      "status": "FEASIBLE",
+      "objective_value": 290.0,
+      "wall_time": 60.021643100000006,
+      "total_time": 63.8411602973938,
+      "num_conflicts": 556,
+      "num_branches": 614408
+    },
+    "scenario_021": {
+      "status": "FEASIBLE",
+      "objective_value": 294.0,
+      "wall_time": 60.037614700000006,
+      "total_time": 62.48901963233948,
+      "num_conflicts": 833,
+      "num_branches": 691799
+    },
+    "scenario_023": {
+      "status": "FEASIBLE",
+      "objective_value": 282.0,
+      "wall_time": 60.055134900000006,
+      "total_time": 62.311161518096924,
+      "num_conflicts": 722,
+      "num_branches": 779655
+    },
+    "scenario_024": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.070280800000006,
+      "total_time": 63.92209219932556,
+      "num_conflicts": 486,
+      "num_branches": 778252
+    },
+    "scenario_027": {
+      "status": "FEASIBLE",
+      "objective_value": 276.0,
+      "wall_time": 60.020766900000005,
+      "total_time": 62.98359513282776,
+      "num_conflicts": 646,
+      "num_branches": 695148
+    },
+    "scenario_029": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0792086,
+      "total_time": 64.48196983337402,
+      "num_conflicts": 336,
+      "num_branches": 609465
+    },
+    "scenario_031": {
+      "status": "FEASIBLE",
+      "objective_value": 291.0,
+      "wall_time": 60.0721368,
+      "total_time": 63.116923332214355,
+      "num_conflicts": 269,
+      "num_branches": 519414
+    },
+    "scenario_033": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.073371800000004,
+      "total_time": 65.16566109657288,
+      "num_conflicts": 336,
+      "num_branches": 611022
+    },
+    "scenario_034": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.05175500000001,
+      "total_time": 65.39587187767029,
+      "num_conflicts": 336,
+      "num_branches": 611774
+    },
+    "scenario_035": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.087529700000005,
+      "total_time": 65.54692196846008,
+      "num_conflicts": 336,
+      "num_branches": 611774
+    },
+    "scenario_039": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0625549,
+      "total_time": 65.56928634643555,
+      "num_conflicts": 438,
+      "num_branches": 694729
+    },
+    "scenario_040": {
+      "status": "FEASIBLE",
+      "objective_value": 285.0,
+      "wall_time": 60.110780500000004,
+      "total_time": 65.44916701316833,
+      "num_conflicts": 785,
+      "num_branches": 397363
+    },
+    "scenario_043": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.039886700000004,
+      "total_time": 63.288893938064575,
+      "num_conflicts": 437,
+      "num_branches": 693811
+    },
+    "scenario_044": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.07370160000001,
+      "total_time": 63.285826683044434,
+      "num_conflicts": 336,
+      "num_branches": 610622
+    },
+    "scenario_045": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.083473500000004,
+      "total_time": 65.11835813522339,
+      "num_conflicts": 336,
+      "num_branches": 609743
+    },
+    "scenario_049": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0459431,
+      "total_time": 64.61635398864746,
+      "num_conflicts": 336,
+      "num_branches": 611171
+    },
+    "scenario_053": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.054630200000005,
+      "total_time": 65.28524518013,
+      "num_conflicts": 336,
+      "num_branches": 609978
+    },
+    "scenario_054": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.096107100000005,
+      "total_time": 65.2871401309967,
+      "num_conflicts": 336,
+      "num_branches": 611909
+    },
+    "scenario_059": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.070235100000005,
+      "total_time": 65.05835437774658,
+      "num_conflicts": 436,
+      "num_branches": 626511
+    },
+    "scenario_060": {
+      "status": "FEASIBLE",
+      "objective_value": 263.0,
+      "wall_time": 60.1223104,
+      "total_time": 62.86778211593628,
+      "num_conflicts": 458,
+      "num_branches": 532715
+    },
+    "scenario_061": {
+      "status": "FEASIBLE",
+      "objective_value": 294.0,
+      "wall_time": 60.0433298,
+      "total_time": 63.41726994514465,
+      "num_conflicts": 412,
+      "num_branches": 602876
+    },
+    "scenario_063": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.050636600000004,
+      "total_time": 66.46824741363525,
+      "num_conflicts": 336,
+      "num_branches": 610182
+    },
+    "scenario_064": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0636432,
+      "total_time": 66.74036169052124,
+      "num_conflicts": 336,
+      "num_branches": 609578
+    },
+    "scenario_065": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.10137520000001,
+      "total_time": 64.99207997322083,
+      "num_conflicts": 336,
+      "num_branches": 609914
+    },
+    "scenario_069": {
+      "status": "FEASIBLE",
+      "objective_value": 282.0,
+      "wall_time": 60.0888478,
+      "total_time": 64.726083278656,
+      "num_conflicts": 218,
+      "num_branches": 436761
+    },
+    "scenario_073": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0575714,
+      "total_time": 64.98654532432556,
+      "num_conflicts": 336,
+      "num_branches": 610182
+    },
+    "scenario_074": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.0721824,
+      "total_time": 64.61810660362244,
+      "num_conflicts": 336,
+      "num_branches": 609327
+    },
+    "scenario_079": {
+      "status": "FEASIBLE",
+      "objective_value": 266.0,
+      "wall_time": 60.11798640000001,
+      "total_time": 63.75131630897522,
+      "num_conflicts": 243,
+      "num_branches": 596775
+    },
+    "scenario_083": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.097062,
+      "total_time": 63.99823999404907,
+      "num_conflicts": 336,
+      "num_branches": 609978
+    },
+    "scenario_084": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.04672360000001,
+      "total_time": 64.62386155128479,
+      "num_conflicts": 336,
+      "num_branches": 610785
+    },
+    "scenario_089": {
+      "status": "FEASIBLE",
+      "objective_value": 282.0,
+      "wall_time": 60.014169800000005,
+      "total_time": 64.72562193870544,
+      "num_conflicts": 678,
+      "num_branches": 779570
+    },
+    "scenario_091": {
+      "status": "FEASIBLE",
+      "objective_value": 295.0,
+      "wall_time": 60.0376795,
+      "total_time": 62.36459994316101,
+      "num_conflicts": 560,
+      "num_branches": 851137
+    },
+    "scenario_093": {
+      "status": "FEASIBLE",
+      "objective_value": 286.0,
+      "wall_time": 60.042856,
+      "total_time": 62.973833084106445,
+      "num_conflicts": 1209,
+      "num_branches": 780572
+    },
+    "scenario_094": {
+      "status": "FEASIBLE",
+      "objective_value": 281.0,
+      "wall_time": 60.04894350000001,
+      "total_time": 62.93228316307068,
+      "num_conflicts": 780,
+      "num_branches": 779814
+    },
+    "scenario_097": {
+      "status": "FEASIBLE",
+      "objective_value": 289.0,
+      "wall_time": 60.04605,
+      "total_time": 62.320165157318115,
+      "num_conflicts": 665,
+      "num_branches": 768154
+    },
+    "scenario_099": {
+      "status": "FEASIBLE",
+      "objective_value": 297.0,
+      "wall_time": 60.032718200000005,
+      "total_time": 62.5834801197052,
+      "num_conflicts": 921,
+      "num_branches": 1022171
+    },
+    "scenario_100": {
+      "status": "FEASIBLE",
+      "objective_value": 293.0,
+      "wall_time": 60.032219500000004,
+      "total_time": 62.57766890525818,
+      "num_conflicts": 1308,
+      "num_branches": 921451
+    }
+  }
+}

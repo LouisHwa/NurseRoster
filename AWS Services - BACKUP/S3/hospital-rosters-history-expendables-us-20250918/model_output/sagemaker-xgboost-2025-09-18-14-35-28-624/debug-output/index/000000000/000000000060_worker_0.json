@@ -1,0 +1,1 @@
+{"meta": {"mode": "GLOBAL", "mode_step": 60, "event_file_name": "events/000000000060/000000000060_worker_0.tfevents"}, "tensor_payload": [{"tensorname": "train-auc", "start_idx": 0, "length": 105}], "shape_payload": []}

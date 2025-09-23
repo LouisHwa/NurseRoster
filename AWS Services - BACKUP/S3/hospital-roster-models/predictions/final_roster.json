@@ -1,0 +1,1034 @@
+{
+  "Fri": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N025"
+    }
+  ],
+  "Mon": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N003"
+    }
+  ],
+  "Sat": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N008"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N008"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N008"
+    }
+  ],
+  "Sun": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N003"
+    }
+  ],
+  "Thu": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N025"
+    }
+  ],
+  "Tue": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N025"
+    }
+  ],
+  "Wed": [
+    {
+      "shift": "Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "Half-Evening",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "Half-Morning",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "Half-Night",
+      "assigned_nurse": "N031"
+    }
+  ],
+  "20250918": [
+    {
+      "shift": "084408.json_Fri_Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "084408.json_Fri_Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "084408.json_Fri_Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "084408.json_Fri_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Fri_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Fri_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Mon_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Mon_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Mon_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Mon_Half-Evening",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "084408.json_Mon_Half-Morning",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "084408.json_Mon_Half-Night",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "084408.json_Sat_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sat_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sat_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sat_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Sat_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Sat_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Sun_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sun_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sun_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Sun_Half-Evening",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "084408.json_Sun_Half-Morning",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "084408.json_Sun_Half-Night",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "084408.json_Thu_Full-Evening",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "084408.json_Thu_Full-Morning",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "084408.json_Thu_Full-Night",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "084408.json_Thu_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "084408.json_Thu_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "084408.json_Thu_Half-Night",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "084408.json_Tue_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Tue_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Tue_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Tue_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Tue_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Tue_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "084408.json_Wed_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Wed_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Wed_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "084408.json_Wed_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "084408.json_Wed_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "084408.json_Wed_Half-Night",
+      "assigned_nurse": "N003"
+    }
+  ],
+  "baseline": [
+    {
+      "shift": "20250918_101000.json_Fri_Full-Evening",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "20250918_101000.json_Fri_Full-Morning",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "20250918_101000.json_Fri_Full-Night",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "20250918_101000.json_Fri_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Fri_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Fri_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Half-Evening",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Half-Morning",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "20250918_101000.json_Mon_Half-Night",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Sat_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "20250918_101000.json_Sun_Half-Night",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Full-Evening",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Full-Morning",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Full-Night",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Thu_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Half-Evening",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Half-Morning",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "20250918_101000.json_Tue_Half-Night",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Half-Evening",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Half-Morning",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "20250918_101000.json_Wed_Half-Night",
+      "assigned_nurse": "N031"
+    }
+  ],
+  "flexible": [
+    {
+      "shift": "hours_20250918_101200.json_Fri_Full-Evening",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Fri_Full-Morning",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Fri_Full-Night",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Fri_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Fri_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Fri_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Half-Evening",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Half-Morning",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Mon_Half-Night",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Full-Evening",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Full-Morning",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Full-Night",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sat_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Half-Evening",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Half-Morning",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Sun_Half-Night",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Thu_Half-Night",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Tue_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "hours_20250918_101200.json_Wed_Half-Night",
+      "assigned_nurse": "N003"
+    }
+  ],
+  "high": [
+    {
+      "shift": "demand_20250918_101102.json_Fri_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Fri_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Fri_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Fri_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Fri_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Fri_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Half-Evening",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Half-Morning",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Mon_Half-Night",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sat_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Full-Evening",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Full-Morning",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Full-Night",
+      "assigned_nurse": "N033"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Sun_Half-Night",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Full-Evening",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Full-Morning",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Full-Night",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Half-Evening",
+      "assigned_nurse": "N017"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Half-Morning",
+      "assigned_nurse": "N017"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Thu_Half-Night",
+      "assigned_nurse": "N017"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Tue_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "demand_20250918_101102.json_Wed_Half-Night",
+      "assigned_nurse": "N003"
+    }
+  ],
+  "reduced": [
+    {
+      "shift": "availability_20250918_101307.json_Fri_Full-Evening",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Fri_Full-Morning",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Fri_Full-Night",
+      "assigned_nurse": "N010"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Fri_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Fri_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Fri_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Half-Evening",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Half-Morning",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Mon_Half-Night",
+      "assigned_nurse": "N032"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sat_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Half-Evening",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Half-Morning",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Sun_Half-Night",
+      "assigned_nurse": "N003"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Full-Evening",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Full-Morning",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Full-Night",
+      "assigned_nurse": "N041"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Half-Evening",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Half-Morning",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Thu_Half-Night",
+      "assigned_nurse": "N025"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Half-Evening",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Half-Morning",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Tue_Half-Night",
+      "assigned_nurse": "N039"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Full-Evening",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Full-Morning",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Full-Night",
+      "assigned_nurse": "N038"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Half-Evening",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Half-Morning",
+      "assigned_nurse": "N031"
+    },
+    {
+      "shift": "availability_20250918_101307.json_Wed_Half-Night",
+      "assigned_nurse": "N031"
+    }
+  ]
+}

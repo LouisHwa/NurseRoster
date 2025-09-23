@@ -1,0 +1,1 @@
+{"meta": {"mode": "GLOBAL", "mode_step": 0, "event_file_name": "events/000000000000/000000000000_worker_0.tfevents"}, "tensor_payload": [{"tensorname": "train-ndcg", "start_idx": 0, "length": 104}, {"tensorname": "validation-ndcg", "start_idx": 104, "length": 114}], "shape_payload": []}

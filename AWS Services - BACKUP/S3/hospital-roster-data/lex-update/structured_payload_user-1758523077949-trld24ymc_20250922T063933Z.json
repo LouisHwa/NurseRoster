@@ -1,0 +1,5 @@
+{
+  "target_file": "nurse",
+  "nurse_id": "N003",
+  "instruction": "change nurse N003 unavailability to Mon-Morning, Mon-Evening, Mon-Night, Tue-Morning, Tue-Evening, Tue-Night-Tue:2025-11-10 to 2025-12-10"
+}

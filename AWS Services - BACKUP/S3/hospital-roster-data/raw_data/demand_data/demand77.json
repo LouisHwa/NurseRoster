@@ -1,0 +1,554 @@
+{
+  "General": {
+    "Mon": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Tue": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Wed": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Thu": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Fri": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Sat": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Sun": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  },
+  "ICU": {
+    "Mon": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Tue": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Wed": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Thu": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Fri": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Sat": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Sun": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  },
+  "ER": {
+    "Mon": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Tue": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Wed": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Thu": {
+      "Full-Morning": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Fri": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 2,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "Sat": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 4,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 4,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "Sun": {
+      "Full-Morning": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Evening": {
+        "min": 3,
+        "max": 5
+      },
+      "Full-Night": {
+        "min": 3,
+        "max": 5
+      },
+      "Half-Morning": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Evening": {
+        "min": 1,
+        "max": 2
+      },
+      "Half-Night": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  }
+}
