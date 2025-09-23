@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.893.0",
+    "@aws-sdk/client-lex-runtime-v2": "^3.893.0",
+    "@aws-sdk/client-s3": "^3.893.0",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.893.0"
+  }
+}
