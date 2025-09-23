@@ -1,0 +1,1 @@
+These files are used as a backup due to the expiring of AWS account and preventing it from permanently deleted. These information are useful for keeping our application running with AWS live services.
